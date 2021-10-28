@@ -1,10 +1,6 @@
-# Machine Learning Operations: Stroke Prediction
+# Machine-Learning-Operations-Platforms---Stroke-Prediction
+# Project Goals: This is a comprehensive project consisting of procedures of machine learning Platforms
 
-## Project Description
-This repository is for the team project **MSCA 32021 Machine Learning Operations**.
-* Instructor: `Arnab Bose`
-* Team: MSCA Data Scientists 
-  * `Minzhen Li`
-  * `Zhizhuo Li`
-  * `Renjie Liu`
-  * `Elly Yang`
+## 1. ClearML
+## 2. Mcirosoft Azure
+## 3. AWS Sagemaker
